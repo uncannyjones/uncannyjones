@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 💬 Ask me about **c , c++ and java**
+- 💬 Ask me about **c , c++ , thymeleaf and java**
 
 - 📫 How to reach me **ankitpujar48@gmail.com**
 
